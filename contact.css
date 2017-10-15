@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+body
+{
+	background: white;
+}
+#logo
+{
+	margin-left: 200px;
+	padding: 20px;
+	
+}
+.table
+{
+	border-spacing: 30px;
+	text-decoration: none;
+}
+.image
+{
+
+}
+}
+#menu
+{
+	color: green
+}
+#ad
+{
+ margin-left: 1200px;
+ background-size: 75px 24px ;
+}
+#tablet1
+{
+ border-collapse: collapse
+ 
+}
+.st
+{
+background: #cafaf8	;
+}
+#tableicon
+{
+margin-left: 100px;
+margin-bottom: 5px;
+border-spacing: 5px;.
+}
+#lol
+{
+margin-left: 300px;	
+}
+ul.hr li
+{
+ display: inline;
+
+margin-left: 10px;
+}
+#mrg
+{
+    float: right;
+    font-family: Fixed, monospace ;
+}
+#kontakt
+{
+	font-family: Arial, sans-serif ;
+    color: #9bb5bb;
+    margin-left: 400px;
+}
+.about
+{
+	font-family: Arial, sans-serif ;
+     color: #9bb5bb;
+    margin-left: 200px;
+    padding-right : 50px;s
+}
